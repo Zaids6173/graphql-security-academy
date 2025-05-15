@@ -1,0 +1,6 @@
+.DS_Store
+build/
+*.pyc
+.env
+node_modules/
+__pycache__/
