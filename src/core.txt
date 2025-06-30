@@ -1,3 +1,4 @@
 🔒 A free, open-source platform dedicated to understand and secure GraphQL applic
 # clarify the control flow
 # avoid re-reading the config on every call
+# drop an unused branch
